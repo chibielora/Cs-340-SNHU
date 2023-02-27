@@ -1,1 +1,1 @@
-# Cs-340-SNHU
+# CS340 - SNHU Client/Server Development 22EW3
